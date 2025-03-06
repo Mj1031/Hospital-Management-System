@@ -33,4 +33,3 @@ Contributions are welcome!
 License
 This project is licensed under the MIT License.
 
-![image](https://github.com/user-attachments/assets/aeb0007b-9e06-48e0-8b76-c37bb625560a)
