@@ -40,7 +40,6 @@ This is a comprehensive Hospital Management System designed to streamline variou
 
 The database schema consists of several tables representing different entities within the hospital environment. Refer to the SQL script for details on table structures and relationships.
 
-
 **Contributing**
 
 Contributions are welcome!
